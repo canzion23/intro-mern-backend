@@ -1,0 +1,3 @@
+### test del api
+
+POST http://localhost:8081/v1/products
